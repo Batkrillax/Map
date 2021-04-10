@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FIS Карта</string>
+    <string name="title_activity_maps">FIS Карта</string>
+    <string name="selectOb">Выберите нужный объект</string>
+    <string name="title_activity_detail">Карта</string>
+    <string name="detail">Подробно…</string>
+    <string name="back">Назад</string>
+    <string name="tMarker">tMarker</string>
+    <string name="mfile">mfile</string>
+</resources>
